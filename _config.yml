@@ -3,7 +3,7 @@ title               : rmb_dev
 description         : >-
                       dedication / persistence / passion
 baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-
+repository          : rmb-dev/blog.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Rom Byrch
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://app.box.com/s/a2ouxu6d9fthw0vi3i2663x72t08ejcs
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
