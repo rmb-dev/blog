@@ -2,7 +2,7 @@
 title               : rmb_dev
 description         : >-
                       dedication / persistence / passion
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/blog"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : rmb-dev/blog.github.io
 # remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
