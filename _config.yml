@@ -4,7 +4,6 @@ description         : >-
                       dedication / persistence / passion
 baseurl             : "/blog"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : rmb-dev/blog.github.io
-# remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -21,7 +20,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Rom Byrch
+  name              : Roman
   image             : https://i.postimg.cc/xdPvczby/a96b5db5-3de5-471f-81a3-a8f7a280a1af.jpg
   behance           : rmb_dev
   dribbble          : rmb_dev
